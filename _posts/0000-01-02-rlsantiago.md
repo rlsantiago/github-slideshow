@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "Welcome to the Jungle's"
 
 ---
 Ule Ule Ule
